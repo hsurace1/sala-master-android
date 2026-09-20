@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sala Master</string>
+    <string name="channel_count_format">%d señales</string>
+    <string name="connecting">Conectando…</string>
+    <string name="signal_error">No se pudo cargar la señal (%1$s)</string>
+    <string name="back_to_menu">← Sala</string>
+</resources>
